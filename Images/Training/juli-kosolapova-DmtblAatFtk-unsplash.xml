@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>juli-kosolapova-DmtblAatFtk-unsplash.jpg</filename>
+    <path>stop-sign-PascalVOC-export/Annotations/juli-kosolapova-DmtblAatFtk-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>216</width>
+        <height>216</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Circle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>102.72694394213381</xmin>
+        <ymin>67.76853526220614</ymin>
+        <xmax>155.84810126582278</xmax>
+        <ymax>147.84086799276673</ymax>
+    </bndbox>
+</object>
+</annotation>

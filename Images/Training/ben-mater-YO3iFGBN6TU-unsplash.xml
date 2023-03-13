@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ben-mater-YO3iFGBN6TU-unsplash.jpg</filename>
+    <path>stop-sign-PascalVOC-export/Annotations/ben-mater-YO3iFGBN6TU-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>216</width>
+        <height>216</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Circle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>68.35443037974683</xmin>
+        <ymin>31.05244122965642</ymin>
+        <xmax>156.23869801084993</xmax>
+        <ymax>179.6745027124774</ymax>
+    </bndbox>
+</object>
+</annotation>

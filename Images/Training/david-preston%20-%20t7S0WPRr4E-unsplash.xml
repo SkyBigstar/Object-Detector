@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>david-preston%20-%20t7S0WPRr4E-unsplash.jpg</filename>
+    <path>stop-sign-PascalVOC-export/Annotations/david-preston%20-%20t7S0WPRr4E-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>216</width>
+        <height>216</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Circle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>59.76130198915009</xmin>
+        <ymin>72.45569620253164</ymin>
+        <xmax>96.86799276672694</xmax>
+        <ymax>104.48462929475588</ymax>
+    </bndbox>
+</object>
+</annotation>

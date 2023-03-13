@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>chris-bair-PJLDC3tA0Sc-unsplash.jpg</filename>
+    <path>stop-sign-PascalVOC-export/Annotations/chris-bair-PJLDC3tA0Sc-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>216</width>
+        <height>216</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Circle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>49.99638336347197</xmin>
+        <ymin>55.66003616636528</ymin>
+        <xmax>74.99457504520795</xmax>
+        <ymax>89.44665461121157</ymax>
+    </bndbox>
+</object>
+</annotation>

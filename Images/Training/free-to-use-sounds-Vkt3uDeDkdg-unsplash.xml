@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>free-to-use-sounds-Vkt3uDeDkdg-unsplash.jpg</filename>
+    <path>stop-sign-PascalVOC-export/Annotations/free-to-use-sounds-Vkt3uDeDkdg-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>216</width>
+        <height>216</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Circle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>79.68173598553345</xmin>
+        <ymin>45.11392405063291</ymin>
+        <xmax>135.9276672694394</xmax>
+        <ymax>82.61121157323689</ymax>
+    </bndbox>
+</object>
+</annotation>

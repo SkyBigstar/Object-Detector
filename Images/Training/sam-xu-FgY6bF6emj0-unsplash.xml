@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>sam-xu-FgY6bF6emj0-unsplash.jpg</filename>
+    <path>stop-sign-PascalVOC-export/Annotations/sam-xu-FgY6bF6emj0-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>216</width>
+        <height>216</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Circle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>134.75587703435804</xmin>
+        <ymin>29.880650994575046</ymin>
+        <xmax>163.66003616636527</xmax>
+        <ymax>72.84629294755877</ymax>
+    </bndbox>
+</object>
+</annotation>

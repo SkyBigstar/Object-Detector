@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>will-porada-ZaGcU6BxJEc-unsplash.jpg</filename>
+    <path>stop-sign-PascalVOC-export/Annotations/will-porada-ZaGcU6BxJEc-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>216</width>
+        <height>216</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Circle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>67.9638336347197</xmin>
+        <ymin>28.318264014466546</ymin>
+        <xmax>144.13019891500903</xmax>
+        <ymax>172.44846292947557</ymax>
+    </bndbox>
+</object>
+</annotation>

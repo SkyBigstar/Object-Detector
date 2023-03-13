@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>andrii-leonov-W_rQAwVRPgg-unsplash.jpg</filename>
+    <path>stop-sign-PascalVOC-export/Annotations/andrii-leonov-W_rQAwVRPgg-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>216</width>
+        <height>216</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Circle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>58.98010849909584</xmin>
+        <ymin>77.72875226039783</ymin>
+        <xmax>166.39421338155515</xmax>
+        <ymax>156.43399638336345</ymax>
+    </bndbox>
+	</object>
+</annotation>

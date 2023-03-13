@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ron-mcclenny-EpHH_NKwKkE-unsplash.jpg</filename>
+    <path>stop-sign-PascalVOC-export/Annotations/ron-mcclenny-EpHH_NKwKkE-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>216</width>
+        <height>216</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Circle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>100.38336347197107</xmin>
+        <ymin>102.14104882459313</ymin>
+        <xmax>120.30379746835442</xmax>
+        <ymax>130.65461121157324</ymax>
+    </bndbox>
+</object>
+</annotation>
